@@ -39,5 +39,5 @@ In retrospect, this may seem self-evident, but the process of reaching this conc
 
 
 ## Author: Mohamed Taha Sta.
-### Team members: Mohamed Taha Sta | Fares Makki | Jasser Hamdi.
+### Team members: Fares Makki | Mohamed Taha Sta | Jasser Hamdi.
 
